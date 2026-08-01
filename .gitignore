@@ -1,0 +1,17 @@
+# Node dependencies
+/rock-vs-mine-ai/frontend/node_modules/
+/rock-vs-mine-ai/frontend/.next/
+/rock-vs-mine-ai/frontend/out/
+
+# Python dependencies & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/rock-vs-mine-ai/backend/__pycache__/
+/rock-vs-mine-ai/backend/*.db
+/rock-vs-mine-ai/backend/*.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
